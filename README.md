@@ -1,4 +1,4 @@
-# Spring2022
+# Cheapest Vacation
 Cheapest Vacation
 Instructions
 Write a function called vacation that takes:
